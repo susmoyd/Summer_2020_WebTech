@@ -1,0 +1,74 @@
+
+
+<information>
+    <student>
+        <slNo>
+            23
+        </slNo>
+        <name>
+            Jhon Carter
+        </name>
+        <admissionDate>
+            25/12/2015
+        </admissionDate>
+    </student>
+
+
+    <student>
+        <slNo>
+            29
+        </slNo>
+        <name>
+            Bob Marshal
+        </name>
+        <admissionDate>
+            13/12/2015
+        </admissionDate>
+    </student>
+
+
+    <student>
+        <slNo>
+            39
+        </slNo>
+        <name>
+            Clark Kent
+        </name>
+        <admissionDate>
+            09/12/2015
+        </admissionDate>
+    </student>
+</information>
+ 
+
+<information>
+   <person>
+    <id>1</id>
+    <name>Jhon Doe</name>
+    <address>
+        H#28 R$3,Banani,Dhaka
+    </address>
+    <department>Sales</department>
+    <salary>$2000</salary>
+    </person>
+   
+    <person>
+    <id>2</id>
+    <name>Mark Zuckerberg</name>
+    <address>
+        Flat# A/1,Banani,Dhaka
+    </address>
+    <department>Human Resource</department>
+    <salary>$52000</salary>
+    </person>
+   
+    <person>
+    <id>3</id>
+    <name>Ala Voski</name>
+    <address>
+        Flat# A/1,Banani,Motijheel
+    </address>
+    <department>Accounts</department>
+    <salary>$12000</salary>
+    </person>
+</information>
